@@ -1,0 +1,4 @@
+[submodule "observatory-operator"]
+	path = observatory-operator
+	url = https://github.com/seventh-horizon/observatory-operator.git
+	branch = main
