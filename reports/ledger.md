@@ -31,7 +31,7 @@ Cycle 4 completed in ~26 hours. Full system interlock across UI, telemetry, and 
 - Lightweight UI smoke tests (Dashboard, SessionCard)
 - Snapshot/public docs pass hygiene
 
-Status gates for public C5 start: ✅ CI green, ✅ reproducible demo, ✅ doc hygiene, 🟡 HCC polish in flight.
+**Status gates for public C5 start:** ✅ CI green, ✅ reproducible demo, ✅ doc hygiene, 🟡 HCC polish in flight.
 <!-- INTERNAL -->
 Operator note: HCC polish (Fuse.js Command Palette, state-based SessionCard/AddSession, Testing Library smoke tests).
 <!-- /INTERNAL -->
