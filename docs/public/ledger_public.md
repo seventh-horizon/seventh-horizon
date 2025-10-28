@@ -11,7 +11,7 @@ encoding: utf-8
 ---
 
 ## [epoch_0004] Cycle 4 — Interlock & Stabilization
-**Date:** 2025-10-28  
+**Date:** [redacted-phone]  
 **Mode:** Deep Build  
 **Signal:** 0.92  
 **Resonance:** 0.87  
@@ -25,13 +25,10 @@ Cycle 4 completed in ~26 hours. Full system interlock across UI, telemetry, and 
 - Build panels + telemetry summary generator  
 - Prep convergence bridge to Cycle 6 cognition loop
 
-<!-- INTERNAL -->
-Operator note: HCC polish (Fuse.js Command Palette, state-based SessionCard/AddSession, Testing Library smoke tests).
-<!-- /INTERNAL -->
 ---
 
 ## [epoch_0005] Cycle 5 — Observatory Panels & Narrative Linkage
-**Date:** 2025-10-28
+**Date:** [redacted-phone]
 **Mode:** Deep Build
 **Signal:** —
 **Resonance:** —
