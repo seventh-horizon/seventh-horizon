@@ -2,3 +2,11 @@
 .DS_Store
 .DS_Store
 .DS_Store
+# local/operator-only dirs (kept outside repo)
+brand/
+daily/
+knowledge/
+logs/
+projects/
+systems/
+templates/
