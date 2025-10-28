@@ -25,13 +25,6 @@ Cycle 4 completed in ~26 hours. Full system interlock across UI, telemetry, and 
 - Build panels + telemetry summary generator  
 - Prep convergence bridge to Cycle 6 cognition loop
 
-**Continuation Note ([redacted-phone]):** Cycle 4 remains operationally active for stabilization (HCC polish, test flake hunts, doc hygiene). The ledger is closed structurally to enable Cycle 5 prep, but Cycle 5 is not publicly “started” until these C4 tasks are green:
-- Fuse.js in HCC Command Palette
-- SessionCard/AddSession → state updates (no reload)
-- Lightweight UI smoke tests (Dashboard, SessionCard)
-- Snapshot/public docs pass hygiene
-
-Status gates for public C5 start: ✅ CI green, ✅ reproducible demo, ✅ doc hygiene, 🟡 HCC polish in flight.
 ---
 
 ## [epoch_0005] Cycle 5 — Observatory Panels & Narrative Linkage

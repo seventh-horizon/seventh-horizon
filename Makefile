@@ -55,7 +55,3 @@ ledger-ci: validate-ledger snapshot-public
 
 public-ci: snapshot-public validate-public
 	@echo "Public snapshot generated and validated."
-# === open ledger for manual editing ===
-edit-ledger:
-	@echo "Opening reports/ledger.md for manual edit..."
-	@${EDITOR:-nano} reports/ledger.md
