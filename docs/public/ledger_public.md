@@ -25,3 +25,18 @@ Cycle 4 completed in ~26 hours. Full system interlock across UI, telemetry, and 
 - Build panels + telemetry summary generator  
 - Prep convergence bridge to Cycle 6 cognition loop
 
+---
+
+## [epoch_0005] Cycle 5 — Observatory Panels & Narrative Linkage
+**Date:** [redacted-phone]
+**Mode:** Deep Build
+**Signal:** —
+**Resonance:** —
+**Entropy:** —
+
+**Summary:**
+(brief notes)
+
+**Next:**
+- 
+

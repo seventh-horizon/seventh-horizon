@@ -28,3 +28,18 @@ Cycle 4 completed in ~26 hours. Full system interlock across UI, telemetry, and 
 <!-- INTERNAL -->
 Operator note: HCC polish (Fuse.js Command Palette, state-based SessionCard/AddSession, Testing Library smoke tests).
 <!-- /INTERNAL -->
+---
+
+## [epoch_0005] Cycle 5 — Observatory Panels & Narrative Linkage
+**Date:** 2025-10-28
+**Mode:** Deep Build
+**Signal:** —
+**Resonance:** —
+**Entropy:** —
+
+**Summary:**
+(brief notes)
+
+**Next:**
+- 
+
