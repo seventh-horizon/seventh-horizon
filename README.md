@@ -42,4 +42,4 @@ git submodule update --init --recursive
   <!-- /INTERNAL -->
 - Use PRs for changes to CI, Makefile, or submodules.
 
-License: MIT (see `LICENSE`).
+Licensed under the Apache License, Version 2.0 — see the LICENSE file for details.
