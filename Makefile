@@ -30,9 +30,9 @@ validate-ledger:
 ## Build a redacted public snapshot
 snapshot-public: $(REDACTOR)
 	@mkdir -p "$(PUBLIC_DIR)"
-	@python3 "$(REDACTOR)" "$(LEDGER)" "$(PUBLIC_DIR)/ledger_public.md"
+	@python3 "$(REDACTOR)" md "$(LEDGER)" "$(PUBLIC_DIR)/ledger_public.md"
 	@echo "Wrote $(PUBLIC_DIR)/ledger_public.md (INTERNAL blocks stripped)"
-
+	
 # ---- Public Snapshot Sanity ----
 
 PUBLIC_MD := $(PUBLIC_DIR)/ledger_public.md
